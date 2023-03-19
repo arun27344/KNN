@@ -1,0 +1,11 @@
+﻿Temperature,Moisture,Wind_speed,Air_quality,result
+24,46,18,130,no effect
+25,44,17,150,affect
+23,42,17,148,no effect
+26,45,5,154,affect
+31,54,10,130,no effect
+33,53,9,158,affect
+29,49,22,166,affect
+30,59,20,143,no effect
+30,67,8,155,affect
+34,58,7,170,affect
